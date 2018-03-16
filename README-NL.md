@@ -25,4 +25,4 @@ Komende Updates:
 Update checker - checkt of er updates voor PSM Chat zijn.
 
 En alle verdere goede ideeën die ik krijg!!
-Heb je er een? mail me: jules@windowslive.com
+Heb je er een? mail me: [redacted]
