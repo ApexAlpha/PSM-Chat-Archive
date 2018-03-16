@@ -1,5 +1,5 @@
 # PSM-Chat
-# Link: https://web.archive.org/web/20100308055531/http://www.msgpluslive.net/scripts/view/403-PSM-Chat
+Link: https://web.archive.org/web/20100308055531/http://www.msgpluslive.net/scripts/view/403-PSM-Chat
 
 With this script, people can actually put messages in your PSM automatically, by putting an ~ in fornt of their message!! (see ScreenShot)
 
