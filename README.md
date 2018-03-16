@@ -24,4 +24,4 @@ Future Updates:
 Update Checker, check if any updates are evadable for PSM Chat.
 
 And all good ideas i get from anyone.
-You've got a good idea? Mail me at: jules@windowslive.com
+You've got a good idea? Mail me at: [redacted]
